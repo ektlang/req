@@ -1,3 +1,3 @@
-module github.com/imroc/req
+module github.com/ektlang/req
 
 go 1.12
